@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(to bottom, #6dd5ed, #2193b0);
+    color: #fff;
+  }
+  
+  #app {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
